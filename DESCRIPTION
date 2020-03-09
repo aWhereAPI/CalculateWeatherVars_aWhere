@@ -1,0 +1,10 @@
+Package: CalculateWeatherVars_aWhere
+Title: Calculates intermediate vars in PET Calculations
+Version: 0.1
+Authors@R: c(person("Technical", "Support", ,"technicalsupport@awhere.com", role = c("aut","cre","ctb")))
+Description: Fxns to return intermediate variables used in the Penman Monteith calculation of PET
+Depends:
+    R (>= 3.1.3)
+License: What license is it under?
+LazyData: true
+RoxygenNote: 6.1.1
